@@ -32,7 +32,7 @@
 	</tbody>
 </table>
 
-<div class="submit_container"><input type="submit" class="submit" value="Markierte löschen" /></div>
+<div class="submit_container"><input type="submit" class="submit" value="<?php echo $this->label_delete; ?>" /></div>
 
 </div>
 </form>
